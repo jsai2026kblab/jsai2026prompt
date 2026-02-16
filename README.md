@@ -2,8 +2,10 @@
 論文のページ制限のため、再現性の確保を目的にこちらで公開しています。
 
 **論文タイトル:** 大規模言語モデルを用いた日本語版Wikipediaカテゴリとその関係の分類
+(Classification of Japanese Wikipedia Categories and Their Relations using Large Language Models)
 
-**著者:** 佐藤 幹, 吉岡 真治
+**著者:** 佐藤 幹(北海道大学工学部), 吉岡 真治(北海道大学工学部情報エレクトロニクス学科)
+連絡先(佐藤 幹) Mail:sato.takashi.d7[at]elms.hokudai.ac.jp ※[at]はアットマークにして下さい
 
 ## 研究の概要
 
