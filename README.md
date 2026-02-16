@@ -5,6 +5,7 @@
 (Classification of Japanese Wikipedia Categories and Their Relations using Large Language Models)
 
 **著者:** 佐藤 幹(北海道大学工学部), 吉岡 真治(北海道大学工学部情報エレクトロニクス学科)
+
 連絡先(佐藤 幹) Mail:sato.takashi.d7[at]elms.hokudai.ac.jp ※[at]はアットマークにして下さい
 
 ## 研究の概要
